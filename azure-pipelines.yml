@@ -9,5 +9,6 @@ trigger:
     - v2*.*
   extends:
   template: naveen-template.yml
+
   parameters:
-  tag:$(tags)
+  tags:$(tags)
