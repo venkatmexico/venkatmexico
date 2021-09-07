@@ -10,4 +10,4 @@ trigger:
   extends:
   template: naveen-template.yml
   parameters:
-  tag:$(tags);
+  tag:$(tags)
