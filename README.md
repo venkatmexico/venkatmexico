@@ -7,3 +7,4 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and tech videos 
 - ⚡ Fun fact: need everyday newthing in life to learn
 
+still coming up
